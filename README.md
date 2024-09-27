@@ -89,4 +89,4 @@ This project is provided "as is". Users of this code are responsible for underst
 
 * Thanks to [**Dr. Arturo Jafet Rodriguez Muñoz**](https://www.linkedin.com/in/arturojafet/?originalSubdomain=mx) for the initial idea based on the OBJ reader from the Raytracer project.
 * Special thanks to Miguel Velez for implementation assistance and OpenAI-GPT-4 for providing an approximation of how to avoid duplicate vertices.
-* Thanks to [@YahwthaniMG](https://github.com/YahwthaniMG) for help with coding and implementation of a lambda function adapted to the actual project.
+* Thanks to [@YahwthaniMG](https://github.com/YahwthaniMG) for help with coding and implementation of a Laplacian smoothing function adapted to the actual project.
